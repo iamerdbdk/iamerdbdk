@@ -1,1 +1,1 @@
-[(https://iamerdbdk.github.io/Github-Profile/)]
+https://iamerdbdk.github.io/Github-Profile/
